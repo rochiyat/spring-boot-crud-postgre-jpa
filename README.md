@@ -12,7 +12,7 @@
 5. Postman or similar tools
 
 ## Running to Localhost
-1. Clone repository github
+1. Clone repository github.com
 2. Change connection to database in file application.properties
 3. Running application in command **mvn spring-boot:run**
 4. Ready to call API
